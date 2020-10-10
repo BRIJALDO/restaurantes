@@ -47,7 +47,7 @@ CREATE TABLE `restaurantes` (
 INSERT INTO `restaurantes` (`id`, `Nombre`, `Descripcion`, `Direccion`, `Ciudad`, `Url`, `foto`, `created_at`, `updated_at`) VALUES
 (16, 'Acacias', 'Platos tipicos', 'Av 45c # 35-12', 'Bogota', 'www.delicias.com', 'uploads/gcdWrePSBxeRrzAPZzqKUG8vTBuzGtaUeSuON5VB.jpeg', NULL, '2020-07-05 04:34:28'),
 (17, 'Delicias', 'Postres', 'cav 35 # 10 - 39', 'Medellin', 'www.delicias.com', 'uploads/tGcd7YtfW6UApMEIdevM7FLmI7ZuLDEsXLgHcgMN.jpeg', NULL, '2020-07-05 04:14:17'),
-(18, 'El mexicano', 'tacos y burritos', 'av 345', 'Jalisco', 'www.elmexicano.mx', 'uploads/SsMTuLHJlXR1dj5cjOqmB2oc59HQA3SgFI0rhy9i.jpeg', NULL, NULL),
+(18, 'El mexicanmo', 'tacos y burritos', 'avenida 345', 'Jalisco', 'www.elmexicano.mx', 'uploads/SsMTuLHJlXR1dj5cjOqmB2oc59HQA3SgFI0rhy9i.jpeg', NULL, NULL),
 (21, 'Gourmet', 'pizza', 'avenida siempre viva 123', 'Bogota', 'www.gourtnet.com.co', 'uploads/xRtJCRBRKcxioiFEsDjAvmmTw5iEHcZffbH7Vtd6.png', NULL, NULL),
 (22, 'El baron rojo', 'Domicilio', 'Cra 2 # 4 a 56', 'Bogota', 'www.elbaronrojo.com', '', NULL, NULL);
 
