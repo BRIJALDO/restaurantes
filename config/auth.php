@@ -4,7 +4,7 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Authentication Defaultsa
+    | Authentication Defaults
     |--------------------------------------------------------------------------
     |
     | This option controls the default authentication "guard" and password
